@@ -1,0 +1,101 @@
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\bin\Debug\hr\WindowsFormsApp.resources.dll
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.resources
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.Settings.resources
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.Settings.hr.resources
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\hr\WindowsFormsApp.resources.dll
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\mgali\Desktop\Visual Studio Projects\OOP-MyProject\OOP-MyProject\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\hr\WindowsFormsApp.resources.dll
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\DataAccessLayer.dll
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\RestSharp.dll
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\DataAccessLayer.pdb
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\RestSharp.xml
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.FrmChangePicture.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.RankedStadiumInfo.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.RankedPlayerInfo.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.PlayerInfo.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Settings.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.FrmChangePicture.hr.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.hr.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.PlayerInfo.hr.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Settings.hr.resources
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\hr\WindowsFormsApp.resources.dll
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+G:\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\hr\WindowsFormsApp.resources.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\DataAccessLayer.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\RestSharp.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\DataAccessLayer.pdb
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\RestSharp.xml
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.FrmChangePicture.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.RankedStadiumInfo.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.RankedPlayerInfo.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.PlayerInfo.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Settings.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.FrmChangePicture.hr.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.hr.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.PlayerInfo.hr.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Settings.hr.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\hr\WindowsFormsApp.resources.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\hr\WindowsFormsApp.resources.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\DataAccessLayer.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\RestSharp.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\DataAccessLayer.pdb
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\RestSharp.xml
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.FrmChangePicture.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.RankedStadiumInfo.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.RankedPlayerInfo.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.PlayerInfo.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Settings.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.FrmChangePicture.hr.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.MainForm.hr.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.PlayerInfo.hr.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.Settings.hr.resources
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\hr\WindowsFormsApp.resources.dll
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+G:\k33zo_dotNet\WinForms-Project-dotNet-Miladinovic_0909\WinForms-Project-dotNet-Miladinovic\WinForms-WPF-Project-main\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
